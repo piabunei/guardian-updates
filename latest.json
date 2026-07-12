@@ -1,0 +1,8 @@
+{
+  "version": "4.2.9",
+  "package_type": "Guardian Maintenance",
+  "build_id": "GUARDIAN-4.2.9",
+  "zip_url": "https://github.com/piabunei/guardian-updates/releases/download/v4.2.9/guardian_maintenance_4_2_9b_fix.zip",
+  "sha256": "154c6098cbf5b0f3789d9aa36f6c1c31b12622aebe70227de0f6be7d1f3550a2",
+  "notes": "Guardian update"
+}
