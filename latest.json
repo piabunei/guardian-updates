@@ -1,8 +1,8 @@
 {
-  "version": "4.5.2",
+  "version": "4.5.3",
   "package_type": "Guardian Hunter",
-  "build_id": "GUARDIAN-4.5.2",
-  "zip_url": "https://github.com/piabunei/guardian-updates/releases/download/v4.5.2/guardian_hunter_4_5_2_threshold_control.zip",
+  "build_id": "GUARDIAN-4.5.3",
+  "zip_url": "https://github.com/piabunei/guardian-updates/releases/download/v4.5.3/guardian_hunter_4_5_3_threshold_control.zip",
   "sha256": "95eb365101daa72ef8ae9e0e9d6dd6065db2e8cc204e96e20b911421e9ee3518",
   "notes": "Guardian update"
 }
