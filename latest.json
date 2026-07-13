@@ -1,8 +1,8 @@
 {
-  "version": "4.5.1",
+  "version": "4.5.2",
   "package_type": "Guardian Hunter",
-  "build_id": "GUARDIAN-4.5.1",
-  "zip_url": "https://github.com/piabunei/guardian-updates/releases/download/v4.5.1/guardian_hunter_4_5_1_sticky_lock.zip",
-  "sha256": "56083457690133424c988be7fc77a5b94ae080e78c91adf99f8160b55127fad1",
+  "build_id": "GUARDIAN-4.5.2",
+  "zip_url": "https://github.com/piabunei/guardian-updates/releases/download/v4.5.2/guardian_hunter_4_5_2_threshold_control.zip",
+  "sha256": "95eb365101daa72ef8ae9e0e9d6dd6065db2e8cc204e96e20b911421e9ee3518",
   "notes": "Guardian update"
 }
