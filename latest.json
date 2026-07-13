@@ -1,8 +1,8 @@
 {
-  "version": "4.3.2",
+  "version": "4.4.0",
   "package_type": "Guardian Hunter",
-  "build_id": "GUARDIAN-4.3.2",
-  "zip_url": "https://github.com/piabunei/guardian-updates/releases/download/v4.3.2/guardian_hunter_4_3_2_combined_status.zip",
-  "sha256": "af7052229b0043ce94d1d648e445472e2dd22d56c9161f77e4eb0ca2fa3d3b54",
+  "build_id": "GUARDIAN-4.4.0",
+  "zip_url": "https://github.com/piabunei/guardian-updates/releases/download/v4.4.0/guardian_hunter_4_4_0_clean_ui.zip",
+  "sha256": "a5596e78c50e576c102f5b8fe2b64f6e685e61fc3b407f4f10688918758601c0",
   "notes": "Guardian update"
 }
